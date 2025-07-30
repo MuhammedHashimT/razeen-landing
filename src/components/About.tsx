@@ -39,7 +39,7 @@ export default function About() {
                 <div className="text-blue-100">Years of Excellence</div>
               </div>
               <div className="text-center">
-                <div className="text-4xl font-bold mb-2">1000+</div>
+                <div className="text-4xl font-bold mb-2">100+</div>
                 <div className="text-blue-100">Happy Students</div>
               </div>
               <div className="text-center">
@@ -48,7 +48,7 @@ export default function About() {
               </div>
             </div>
             
-            <div className="mt-8 pt-6 border-t border-blue-400/30">
+            {/* <div className="mt-8 pt-6 border-t border-blue-400/30">
               <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-center">
                 <div className="flex items-center gap-2">
                   <div className="w-3 h-3 bg-yellow-400 rounded-full"></div>
@@ -65,7 +65,7 @@ export default function About() {
                   <span className="text-blue-100">Globally Recognized</span>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
 

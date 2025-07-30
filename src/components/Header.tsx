@@ -1,5 +1,6 @@
 import React from 'react';
 import { Menu, X } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 
 interface HeaderProps {
   isMenuOpen: boolean;
@@ -7,11 +8,18 @@ interface HeaderProps {
 }
 
 export default function Header({ isMenuOpen, setIsMenuOpen }: HeaderProps) {
+  const navigate = useNavigate()
   return (
     <header className="bg-white shadow-sm sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
-          <div className="flex items-center">
+          <div 
+          onClick={
+            ()=>{
+              navigate('/')
+            }
+          }
+          className="flex items-center cursor-pointer">
             <img 
               src="/image.png" 
               alt="Learn With Razeen " 

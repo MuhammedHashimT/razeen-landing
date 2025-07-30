@@ -45,7 +45,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="font-semibold text-gray-900">Email</div>
-                  <div className="text-gray-600">info@learnwithrazeen.in</div>
+                  <div className="text-gray-600">learnwithrazeen@gmail.com</div>
                 </div>
               </div>
               
@@ -56,7 +56,6 @@ export default function Contact() {
                 <div>
                   <div className="font-semibold text-gray-900">Phone</div>
                   <div className="text-gray-600">+91 97468 22548</div>
-                  <div className="text-sm text-gray-500">Mon-Fri 9AM-6PM IST</div>
                 </div>
               </div>
               

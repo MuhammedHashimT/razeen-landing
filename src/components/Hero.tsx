@@ -15,21 +15,16 @@ export default function Hero() {
         <div className="gap-12 items-center">
           {/* Left Content */}
           <div className="text-center">
-            <div className="mb-6">
-              <span className="bg-blue-100 text-blue-800 text-sm font-semibold px-4 py-2 rounded-full">
-                🕌 Islamic Education Platform
-              </span>
-            </div>
             
             <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-              Learn with
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600 block">
+              Learn with {" "}
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600 block lg:inline">
                 Razeen
               </span>
             </h1>
             
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              Master Islamic studies with <span className="font-semibold text-blue-600">certified courses</span>, personal mentorship, and flexible learning from Darul Huda Islamic University.
+              Master Linguistics, Translation, and Islamic studies with <span className="font-semibold text-blue-600">certified courses</span>, personal mentorship, and flexible learning from government authorized institution.
             </p>
             
             {/* Quick Stats */}
