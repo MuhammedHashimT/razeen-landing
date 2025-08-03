@@ -3,25 +3,25 @@ import { Star, Quote } from 'lucide-react';
 
 const testimonials = [
   {
-    name: "Ahmed Hassan",
-    course: "Web Development Fundamentals",
+    name: "Jumaila Wafiyya",
+    course: "Translation Course",
     rating: 5,
-    image: "/5e0cd223-e370-4a03-a16a-5dcbf002f486.jpg",
-    text: "Learn with Razeen transformed my career! The instructors are incredibly knowledgeable and the course content is practical and up-to-date. Highly recommended!"
+    image: "/avatar.svg",
+    text: "Learn with Razeen's translation course uses simple methods ideal for beginners, offering clear instructions and insights into professional translation, building confidence and clarity in both Arabic and English. Highly recommended!"
   },
   {
     name: "Fatima Al-Zahra",
     course: "Data Science & Analytics",
     rating: 5,
-    image: "/94bcbf14-29c0-46a7-9659-c1083341841e.jpg",
-    text: "The personal mentorship and app-based learning made it so convenient to study while working. The certificate is embassy-attested which helped me get my dream job!"
+    image: "/avatar.svg",
+    text: "As an Arabic college student, I knew translation basics. This systematic online course exceeded expectations—taught me work management, official records handling, and effective translation. Alhamdulillah, I’m fully satisfied and grateful."
   },
   {
-    name: "Mohammed Ibrahim",
-    course: "Advanced Programming Concepts",
+    name: "Hasna Thasnim",
+    course: "Translation Course",
     rating: 5,
-    image: "/a5596dda-20ba-42ae-a87b-084b35ab43d1.jpg",
-    text: "Excellent teaching methodology and great support from instructors. The flexible schedule allowed me to learn at my own pace. Worth every rupee spent!"
+    image: "/avatar.svg",
+    text: "I completed the Learn with Razeen Translation Course. It offers structured, easy-to-understand classes and activities across 15 modules, helping build confidence from beginner to advanced level."
   }
 ];
 
