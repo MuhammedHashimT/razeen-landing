@@ -6,21 +6,21 @@ const testimonials = [
     name: "Jumaila Wafiyya",
     course: "Translation Course",
     rating: 5,
-    image: "/avatar.svg",
+    image: "/avatar.png",
     text: "Learn with Razeen's translation course uses simple methods ideal for beginners, offering clear instructions and insights into professional translation, building confidence and clarity in both Arabic and English. Highly recommended!"
   },
   {
     name: "Fatima Al-Zahra",
     course: "Data Science & Analytics",
     rating: 5,
-    image: "/avatar.svg",
+    image: "/avatar.png",
     text: "As an Arabic college student, I knew translation basics. This systematic online course exceeded expectations—taught me work management, official records handling, and effective translation. Alhamdulillah, I’m fully satisfied and grateful."
   },
   {
     name: "Hasna Thasnim",
     course: "Translation Course",
     rating: 5,
-    image: "/avatar.svg",
+    image: "/avatar.png",
     text: "I completed the Learn with Razeen Translation Course. It offers structured, easy-to-understand classes and activities across 15 modules, helping build confidence from beginner to advanced level."
   }
 ];

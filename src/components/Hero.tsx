@@ -35,7 +35,7 @@ export default function Hero() {
               </div>
               <div className="flex items-center gap-2 bg-white/70 backdrop-blur-sm rounded-lg px-4 py-2">
                 <Users className="text-blue-600" size={20} />
-                <span className="text-sm font-medium text-gray-700">1000+ Students</span>
+                <span className="text-sm font-medium text-gray-700">100+ Students</span>
               </div>
               <div className="flex items-center gap-2 bg-white/70 backdrop-blur-sm rounded-lg px-4 py-2">
                 <Award className="text-blue-600" size={20} />
