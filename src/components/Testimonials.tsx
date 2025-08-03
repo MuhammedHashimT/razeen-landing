@@ -11,7 +11,7 @@ const testimonials = [
   },
   {
     name: "Fatima Al-Zahra",
-    course: "Data Science & Analytics",
+    course: "Translation Course",
     rating: 5,
     image: "/avatar.png",
     text: "As an Arabic college student, I knew translation basics. This systematic online course exceeded expectations—taught me work management, official records handling, and effective translation. Alhamdulillah, I’m fully satisfied and grateful."
