@@ -10,7 +10,7 @@ const testimonials = [
     text: "Learn with Razeen's translation course uses simple methods ideal for beginners, offering clear instructions and insights into professional translation, building confidence and clarity in both Arabic and English. Highly recommended!"
   },
   {
-    name: "Fatima Al-Zahra",
+    name: "Muhammad Salim Hudawi",
     course: "Translation Course",
     rating: 5,
     image: "/avatar.png",
